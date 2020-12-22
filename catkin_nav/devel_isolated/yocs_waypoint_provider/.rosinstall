@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/choi/catkin_nav/devel_isolated/yocs_waypoint_provider/setup.sh

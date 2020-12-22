@@ -1,0 +1,2 @@
+set(scitos_msgs_MESSAGE_FILES "/home/choi/catkin_nav/src/scitos_mira/src/scitos_msgs/msg/BatteryState.msg;/home/choi/catkin_nav/src/scitos_mira/src/scitos_msgs/msg/ChargerStatus.msg")
+set(scitos_msgs_SERVICE_FILES "/home/choi/catkin_nav/src/scitos_mira/src/scitos_msgs/srv/ResetMotorStop.srv;/home/choi/catkin_nav/src/scitos_mira/src/scitos_msgs/srv/ResetOdometry.srv;/home/choi/catkin_nav/src/scitos_mira/src/scitos_msgs/srv/EmergencyStop.srv;/home/choi/catkin_nav/src/scitos_mira/src/scitos_msgs/srv/EnableMotors.srv")

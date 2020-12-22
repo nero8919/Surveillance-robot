@@ -1,0 +1,8 @@
+prefix=/home/choi/catkin_nav/install
+
+Name: scitos_launch
+Description: Description of scitos_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

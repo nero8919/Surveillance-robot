@@ -1,0 +1,8 @@
+prefix=/home/choi/catkin_nav/install
+
+Name: service_tutorial
+Description: Description of service_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
