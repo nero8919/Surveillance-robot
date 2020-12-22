@@ -1,0 +1,8 @@
+prefix=/home/choi/catkin_space/devel
+
+Name: voxel_grid
+Description: Description of voxel_grid
+Version: 1.16.6
+Cflags: -I/home/choi/catkin_space/src/navigation/voxel_grid/include
+Libs: -L${prefix}/lib -lvoxel_grid
+Requires: roscpp
