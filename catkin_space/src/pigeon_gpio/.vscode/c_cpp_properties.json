@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/choi/catkin_space/devel/include",
+                "/home/choi/catkin_nav/devel/include",
+                "/home/choi/catkin_ws/install_isolated/include",
+                "/opt/ros/kinetic/include",
+                "/home/choi/catkin_space/src/xycar_ws/dynamic_reconfigure_test/include",
+                "/home/choi/catkin_space/src/xycar_ws/pid/include",
+                "/home/choi/catkin_space/src/xycar_ws/usb_cam/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++98"
+        }
+    ],
+    "version": 4
+}

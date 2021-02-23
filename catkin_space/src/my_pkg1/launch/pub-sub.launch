@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="my_pkg1" type= "teacher.py" name="teacher1"/>
+    <node pkg="my_pkg1" type= "teacher.py" name="teacher2"/>
+    <node pkg="my_pkg1" type= "student.py" name="student1"/>
+
+</launch>    
