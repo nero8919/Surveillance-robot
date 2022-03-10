@@ -1,8 +1,0 @@
-prefix=/home/choi/catkin_nav/install
-
-Name: navigation_base
-Description: Description of navigation_base
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

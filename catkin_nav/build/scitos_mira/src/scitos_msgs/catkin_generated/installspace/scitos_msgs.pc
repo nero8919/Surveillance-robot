@@ -1,8 +1,0 @@
-prefix=/home/choi/catkin_nav/install
-
-Name: scitos_msgs
-Description: Description of scitos_msgs
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 

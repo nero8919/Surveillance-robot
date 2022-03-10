@@ -1,8 +1,0 @@
-prefix=/home/choi/catkin_space/devel
-
-Name: m2wr_gazebo
-Description: Description of m2wr_gazebo
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
